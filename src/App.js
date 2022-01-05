@@ -19,12 +19,7 @@ export default function App() {
       <div className="row bg-dark text-light p-3 sticky-top">
         <div className="col h3"> React </div>
       </div>
-      <div className="row">
-        <div className="col-12 bg-secondary text-light p-3">
-        
-        </div>
 
-      </div>
-    </div>
+    </div >
   );
 }
